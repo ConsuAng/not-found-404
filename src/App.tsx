@@ -16,7 +16,7 @@ function App() {
               I have bad news for you
             </p> 
 
-            <p className='text-lg text-[#4F4F4F] w-[283px] font-normal tracking-[-0.035em]'>
+            <p className='text-lg text-[#4F4F4F] w-[219px] font-normal tracking-[-0.035em]'>
               The page you are looking for might be removed or is temporarily unavailable
             </p>
           <div className='pt-[66px] w-full'>
